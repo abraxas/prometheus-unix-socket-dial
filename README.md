@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/prometheus-unix-socket-dial">prometheus-unix-socket-dial</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/prometheus-unix-socket-dial"><strong>https://abraxaslabs.tech/research/prometheus-unix-socket-dial</strong></a>
+</p>
+
 
 # prometheus-unix-socket-dial
 
